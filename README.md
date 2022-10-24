@@ -8,3 +8,12 @@ w&=\dfrac{\partial\phi}{\partial z}-\dfrac{\partial\psi}{\partial x}\\
 \end{align}
 $$
 
+ただし、
+
+```math
+\begin{align}
+\psi_{0}=I_{S}\exp\left(i\left(fx+sz-pt\right)\right) \\
+\phi_{1}=A_{1}\exp\left(i\left(fx-rz-pt\right)\right) \\
+\psi_{2}=B_{2}\exp\left(i\left(fx-sz-pt\right)\right) \\
+\end{align}
+```
